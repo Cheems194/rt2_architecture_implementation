@@ -1,0 +1,20 @@
+# Data
+data/*.jsonl
+data/**/*.jsonl
+
+# Model checkpoints
+*.pt
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Environment
+.env
